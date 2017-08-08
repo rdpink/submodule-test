@@ -1,3 +1,6 @@
 [submodule "submodule/hello-world"]
 	path = submodule/hello-world
 	url = https://github.com/rdpink/hello-world.git
+[submodule "test-repo"]
+	path = test-repo
+	url = https://github.com/rdpink/test-repo.git
