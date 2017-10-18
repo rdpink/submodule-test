@@ -10,6 +10,4 @@
 [submodule "test-repo3"]
 	path = test-repo3
 	url = https://github.com/rdpink/test-repo3.git
-[submodule “test-remote]
-	path = test-remote
-	url = ssh://github.com:rdpink/remote-test.git
+
