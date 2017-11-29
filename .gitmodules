@@ -11,5 +11,5 @@
 	path = test-repo3
 	url = https://github.com/rdpink/test-repo3.git
 [submodule "submod\\test-repo4"]
-	path = submod\\test-repo4
+	path = submod\test-repo4
 	url = https://github.com/rdpink/test-repo4.git
