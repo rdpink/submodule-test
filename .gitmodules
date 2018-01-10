@@ -10,4 +10,3 @@
 [submodule "test-repo3"]
 	path = test-repo3
 	url = https://github.com/rdpink/test-repo3.git
-
